@@ -14,7 +14,7 @@ To understand the fundamentals of UI and UX design, differentiate between UI and
 
 
 ## Output:
-[View PDF](./uiux(exp-1).pdf)
+[View uiux(exp-1)](./uiux(exp-1).pdf)
 
 ## Result:
 
